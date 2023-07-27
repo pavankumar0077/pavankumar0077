@@ -2,7 +2,8 @@
 
 
 # 💫 About Me:
-👋 Hi, I’m Pavan Kumar Dasari<br>👀 I’m interested in Cloud ☁, Front-end, Backend<br>🌱 I’m currently learning DevOps<br>💞️ I’m looking to collaborate on DevOps<br>📫 How to reach me - dasarepavan007@gmail.com
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=16&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I%E2%80%99m+Pavan+Kumar+Dasari+;%F0%9F%91%80+I%E2%80%99m+interested+in+Cloud+%E2%98%81%2C+Front-end%2C+Backend;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+DevOps+;%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+DevOps;%F0%9F%93%AB+How+to+reach+me+-+dasarepavan007%40gmail.com)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
@@ -17,9 +18,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pavankumar0077&icon=0&color=0)](https://visitcount.itsvg.in)

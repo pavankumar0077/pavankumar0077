@@ -23,7 +23,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=pavankumar0077&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![snake gif](https://github.com/pavankumar0077/pavankumar0077/blob/output/github-contribution-grid-snake.gif)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

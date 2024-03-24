@@ -12,5 +12,8 @@
 ### :writing_hand: Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
+
+[![Ubuntu Runner Test](https://github.com/Pradumnasaraf/GH-Action-Playground/actions/workflows/ubuntu-os-runner.yml/badge.svg)](https://github.com/Pradumnasaraf/GH-Action-Playground/actions/workflows/ubuntu-os-runner.yml)
+
 [![](https://visitcount.itsvg.in/api?id=pavankumar0077&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
